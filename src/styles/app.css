@@ -1,0 +1,66 @@
+.bg-lightsmoke{
+	background-color: #EEE;
+}
+.bg-nano-orange {
+	background-color: #ff5a00 !important;
+}
+
+.bg-form {
+    background-color: #d0fdfd
+}
+
+.color-white {
+	color: white;
+}
+
+.color-gray{
+	color: #cccccc;
+}
+
+.p-16{
+	padding: 16px;
+}
+
+.p-32{
+	padding: 32px;
+}
+
+.responsive-text {
+    text-align: left;
+	word-wrap: break-word;
+	width: 100%;
+	table-layout: fixed;
+	display: table;
+	color: black;
+	font-size: 11px;
+}
+
+.bg-logo-dark{
+	background: url(../assets/images/nano-logo.png);
+	background-size: auto 90%;
+	background-position-x: right;
+	background-position-y: 50%;
+	background-repeat: no-repeat;
+}
+.bg-logo-dark-2{
+	background: url(../assets/images/nano-logo.png);
+	background-size: auto 100%;
+	background-position-x: 70%;
+	background-position-y: 50%;
+	background-repeat: no-repeat;
+}
+
+.artSelected {
+	cursor: pointer;
+	border: 4px solid dodgerblue;
+	border-radius: 2px;
+}
+
+.artNotSelected {
+	cursor: pointer;
+	border: 4px solid transparent;
+	border-radius: 2px;
+}
+.artNotSelected:hover {
+	border: 4px solid dodgerblue;
+}

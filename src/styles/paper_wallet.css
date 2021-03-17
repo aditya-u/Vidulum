@@ -1,0 +1,45 @@
+.paper-wallet {
+	width: 1000px;
+	height: 453px;
+	background-size: contain;
+	position: relative;
+	margin: 0 auto;
+}
+
+.paper-wallet .public-key-qr-code {
+	background-color: white;
+	position: absolute;
+	padding: 10px;
+}
+
+.paper-wallet .public-key-code {
+	line-height: 18px;
+	font-size: 16px;
+	padding: 5px;
+	font-weight: bold;
+	position: absolute;
+	word-break: break-all;
+	text-align: Left;
+	font-family: helvetica;
+}
+
+.paper-wallet .private-qr-code {
+	background-color: white;
+	position: absolute;
+	padding: 5px;
+}
+
+.paper-wallet .private-code {
+	padding: 5px;
+	font-weight: bold;
+	position: absolute;
+	word-break: break-all;
+	text-align: Left;
+    font-family: helvetica;
+}
+
+.infos {
+	padding: 10px;
+	position: absolute;
+	font-family: helvetica;
+}
