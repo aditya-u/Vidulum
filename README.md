@@ -23,8 +23,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/aditya-u/DSOC">
-    <img src="pics/1.jpg" alt="Logo" width="80" height="80">
+  <a href="https://github.com/aditya-u/Vidilum">
+    <img src="Vidilum.png" alt="Logo" width="80" height="80">
   </a>
 
   <h1 align="center">Vidilum</h1>
