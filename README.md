@@ -33,7 +33,7 @@
   <p align="center">
     A innovative wallet/payment soultion built fro Nano
     <br />
-    <a href="https://github.com/aditya-u/DSOC/blob/master/docs/Dsoc.pdf"><strong>Check out the presentation!</strong></a>
+    <a href="https://github.com/aditya-u/Vidulum/blob/main/VidilumPresentation.pdf"><strong>Check out the presentation!</strong></a>
     <br />
     <br />
   </p>
