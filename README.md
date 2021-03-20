@@ -58,12 +58,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A comphrehensive wallet generator for Nano.
+A comprehensive wallet generator for Nano.
 The wallet generator generates a public and private key randomly and provies you with a layout to print out the wallet generator.
 
-This is a form of cold storage, we are creating a wallet generator for Nano
+This is a form of cold storage, we are creating a wallet generator for Nano.
 
-The concept of Paper wallets are to  transfer funds into it and then delete all digital trace of it. It is used for temporarary safe transfer of funds.
+The concept of Paper wallets are to  transfer funds into it and then delete all digital trace of it.
+Storing keys digitally may be a problem as people can hack into systems, therefore for customers who are not comfortable storing keys digitally, they can genrtate a wallet, and delete their digital trace.
+
+Using a paper wallet, payments can be done easily by then scanning the qr code in our web app
 
 
 
@@ -73,7 +76,7 @@ This section lists all major frameworks used.
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 * [Node](https://nodejs.org/en/)
-* [React]
+* [React](https://reactjs.org/)
 
 
 
