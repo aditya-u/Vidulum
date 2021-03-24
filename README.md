@@ -28,7 +28,7 @@
   </a>
 
   <h1 align="center">Vidilum</h1>
-  <h3 align="center">Nanao Wallet Generator</h3>
+  <h3 align="center">Nano Wallet Generator</h3>
 
   <p align="center">
     A innovative wallet/payment soultion built fro Nano
