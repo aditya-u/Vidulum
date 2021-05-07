@@ -31,7 +31,7 @@
   <h3 align="center">Nano Wallet Generator</h3>
 
   <p align="center">
-    A innovative wallet/payment soultion built fro Nano
+    A innovative wallet/payment solution built from Nano
     <br />
     <a href="https://github.com/aditya-u/Vidulum/blob/main/VidilumPresentation.pdf"><strong>Check out the presentation!</strong></a>
     <br />
